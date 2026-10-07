@@ -1,3 +1,5 @@
+<div align="right"><a href="README.en.md">🇬🇧 English</a> · 🇪🇸 Español</div>
+
 <div align="center">
   <img src="assets/header.svg" alt="Diego Morón — Ingeniero de Sistemas, desarrollo full-stack y blockchain" width="100%"/>
 </div>
